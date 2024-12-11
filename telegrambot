@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Yangi loyiha"
+git remote add origin https://github.com/Sizning_username/Your_Repo.git
+git push -u origin main
